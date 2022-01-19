@@ -1,0 +1,43 @@
+h1.marron{
+    color: brown;
+    text-align: center;
+    font-weight: bold;
+}
+body{
+    background-color: #FFE5C2;
+}
+
+hr{
+    color: brown;
+}
+
+h3.carta{
+    position: relative;
+    bottom: -60px;
+    text-align: left;
+    font: menu;
+    
+}
+
+h3.cafe{
+
+    position: relative;
+    bottom: -120px;
+    text-align: center;
+    font: menu;
+}
+
+h3.contacto{
+
+    position: relative;
+    bottom: -180px;
+    text-align: right;
+    font: menu;
+
+}
+
+h3.carta2{
+
+    color: brown;
+
+}
